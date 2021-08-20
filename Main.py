@@ -1,5 +1,3 @@
-# 0986192 Fatih Catak
-# 0986050 Luca van den Berg
 import random
 # ---- ALLE VARIABELEN ----
 small = set("abcdefghijklmnopqrstuvwxyz ")
